@@ -1,0 +1,15 @@
+Roll-a-Ball Tutorial Game Project README 
+
+This is a timed two player game.
+The goal is to collect more blocks than your opponent.
+
+Player 1 Controls:
+movement = Up, Down, Left, Right
+jump = Space
+
+Player 2 Controls:
+movement = W, A, S, D
+jump = E
+
+Additional Notes & Function:
+Coming in contact with walls deducts 1 point from the player's score
